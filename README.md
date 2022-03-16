@@ -4,7 +4,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ## Sobre
+
 Larasail fornece um ponto de partida bonito e robusto para sua próxima aplicação Laravel. Laravel é projetado para ajudá-lo a construir seu aplicativo usando um ambiente de desenvolvimento simples, poderoso e agradável. 
 
 ## Licença
